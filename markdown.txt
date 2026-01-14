@@ -13,3 +13,15 @@
 [açıklama](link)
 
 ![açıklama](link)
+
+'''jacascript
+function helloWorld() {
+    console.log("Hello, world!");
+}
+'''
+
+'''python
+def hello_world():
+    print("Hello, world!")
+'''
+
