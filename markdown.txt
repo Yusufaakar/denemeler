@@ -10,8 +10,6 @@
 
 *italic* **bold** ***bolditalic***
 
---------------------------
-
 [açıklama](link)
 
 ![açıklama](link)
